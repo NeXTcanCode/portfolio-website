@@ -25,7 +25,7 @@ export const projects = [
     title: 'Enterprise RAG',
     tag: 'React · Vector Search · Node',
     desc: 'Retrieval-Augmented Generation over enterprise data with custom embeddings to cut hallucinations.',
-    live: 'https://next-doesnt-like-css.netlify.app',
+    live: 'https://next-code-navigator.netlify.app',
   },
   {
     title: 'ModelWise',
